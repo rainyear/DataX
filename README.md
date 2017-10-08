@@ -6,7 +6,7 @@ Data X
 1. [什么值得买](http://www.smzdm.com/)
 
 
-| First Header  | Second Header |
+| Info | Content |
 | ------------- | ------------- |
 | 抓取日期  | 2017-10-07  |
 | 数据总量  |   18 Categories, 129,552 Records |
