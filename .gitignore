@@ -1,4 +1,4 @@
 db.*
-spider.*
+spider*
 __pycache__/
 .ipynb_checkpoints/
