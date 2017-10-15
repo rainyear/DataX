@@ -12,10 +12,7 @@ Data X
 | 数据总量  |   18 Categories, 129,552 Records |
 | 数据处理  | [visualize.ipynb](Smzdm/visualize.ipynb) |
 | 下载数据  | [smzdm-2017-10-07.pkl](Smzdm/smzdm-2017-10-07.pkl) (33M) |
-
-#### Data Structure
-
-```json
+| 数据结构  |  ```json
 {
     "_id" : ObjectId("59d8e409b735f72ef1c6e818"),
     "fenlei" : "diannaoshuma",
@@ -36,6 +33,8 @@ Data X
     ]
 }
 ```
+|
+
 
 ---
 
