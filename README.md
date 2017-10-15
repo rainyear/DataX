@@ -19,7 +19,7 @@ Data X
 | Info | Content |
 | ------------- | ------------- |
 | 抓取日期  | 2017-10-12  |
-| 数据总量  |   22,619 Users, xx,xxx Photos |
+| 数据总量  |   22,619 Users, 78,122 Photos |
 | 数据处理  | N/A yet |
 | 下载数据  | N/A yet |
 | 数据结构  | N/A yet |
@@ -35,3 +35,4 @@ Data X
 5. [Plot.ly](https://plot.ly/python/)
 6. [Colorlover](https://plot.ly/ipython-notebooks/color-scales)
 7. [The Data Visualisation Catalogue](https://datavizcatalogue.com/index.html)
+8. [Face Detection with OpenCV](https://docs.opencv.org/trunk/d7/d8b/tutorial_py_face_detection.html)
