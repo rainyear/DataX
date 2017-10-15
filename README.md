@@ -14,6 +14,16 @@ Data X
 | 下载数据  | [smzdm-2017-10-07.pkl](Smzdm/smzdm-2017-10-07.pkl) (33M) |
 | 数据结构  | [smzdm.json](Smzdm/smzdm.json) |
 
+2. [新浪微博用户相册](http://weibo.com/)
+
+| Info | Content |
+| ------------- | ------------- |
+| 抓取日期  | 2017-10-12  |
+| 数据总量  |   22,619 Users, xx,xxx Photos |
+| 数据处理  | N/A yet |
+| 下载数据  | N/A yet |
+| 数据结构  | N/A yet |
+
 ---
 
 ### Tools
