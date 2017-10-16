@@ -36,3 +36,4 @@ Data X
 6. [Colorlover](https://plot.ly/ipython-notebooks/color-scales)
 7. [The Data Visualisation Catalogue](https://datavizcatalogue.com/index.html)
 8. [Face Detection with OpenCV](https://docs.opencv.org/trunk/d7/d8b/tutorial_py_face_detection.html)
+9. [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html)
