@@ -32,9 +32,7 @@ Data X
 | 数据总量  | 1,449 Records |
 | 数据处理  | [NPS](TechReview/NPS.ipynb) |
 | 下载数据  | [ZOL\_Scores.csv](TechReview/ZOL\_Scores.csv)/[PConline\_Scores.csv](TechReview/PConline\_Scores.csv) |
-| 数据结构  | [Data\ Struture.json](TechReview/Data\ Structure.json) |
-
-
+| 数据结构  | [Data Struture.json](TechReview/Data%20Structure.json) |
 
 ---
 
