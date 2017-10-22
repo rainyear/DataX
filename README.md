@@ -24,6 +24,18 @@ Data X
 | 下载数据  | N/A yet |
 | 数据结构  | N/A yet |
 
+3. [ZOL](http://mobile.zol.com.cn/) & [PConline](http://mobile.pconline.com.cn/) 用户评分
+
+| Info | Content |
+| ------------- | ------------- |
+| 抓取日期  | 2017-10-22  |
+| 数据总量  | 1,449 Records |
+| 数据处理  | [NPS](TechReview/NPS.ipynb) |
+| 下载数据  | [ZOL\_Scores.csv](TechReview/ZOL\_Scores.csv)/[PConline\_Scores.csv](TechReview/PConline\_Scores.csv) |
+| 数据结构  | [Data Struture.json](TechReview/Data Structure.json) |
+
+
+
 ---
 
 ### Tools
