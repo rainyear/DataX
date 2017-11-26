@@ -1,0 +1,47 @@
+{
+    "_id" : ObjectId("5a0af235b735f764913628d6"),
+    "directors" : [ 
+        "弗兰克·德拉邦特"
+    ],
+    "rate" : "9.6",
+    "cover_x" : 2000,
+    "star" : "50",
+    "title" : "肖申克的救赎",
+    "url" : "https://movie.douban.com/subject/1292052/",
+    "casts" : [ 
+        "蒂姆·罗宾斯", 
+        "摩根·弗里曼", 
+        "鲍勃·冈顿", 
+        "威廉姆·赛德勒", 
+        "克兰西·布朗"
+    ],
+    "cover" : "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p480747492.jpg",
+    "id" : "1292052",
+    "cover_y" : 2963,
+    "p" : true,
+    "playlist" : [ 
+        {
+            "site" : "腾讯视频",
+            "price" : "VIP免费"
+        }, 
+        {
+            "site" : "搜狐视频",
+            "price" : "付费 10 元"
+        }, 
+        {
+            "site" : "爱奇艺视频",
+            "price" : "VIP免费"
+        }, 
+        {
+            "site" : "优酷视频",
+            "price" : "付费 20 元/月"
+        }
+    ],
+    "date" : "1994-09-10",
+    "voters" : "912058",
+    "score" : "9.6",
+    "tags" : [ 
+        "剧情", 
+        "犯罪"
+    ]
+}
