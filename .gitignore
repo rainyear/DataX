@@ -1,5 +1,4 @@
 db.*
-spider*
 __pycache__/
 .ipynb_checkpoints/
 photos/
